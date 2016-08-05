@@ -1,0 +1,280 @@
+/* Inserta tu codigo aqui */
+
+.caja {
+
+  margin-left:4%;
+  margin-right:4%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+
+
+}
+
+
+.espacio {
+
+	margin-top: 10%;
+}
+
+
+
+.imagen-fondo { 
+
+	background-image: url("../img/dance_1.jpg");
+	height: 425px;
+	background-size: 100%;
+}
+
+
+.imagen-fondo2 { 
+
+	background-image: url("../img/dance_7.jpg");
+	height: 425px;
+	background-size: 100%;
+}
+
+
+.decoracion{
+
+	width: 10%;
+	height: 10%;
+}
+
+
+.boton1{
+
+	width: 20%;
+	height: 50%;
+}
+
+
+.boton2{
+
+	width: 30%;
+	height: 20%;
+	align:center;
+	margin-top: 50%; 
+	margin-bottom: 50%;
+	margin-left: 90%;
+	margin-right: 90%;
+}
+
+
+.texto{
+
+	color:white;
+}
+
+
+.bailarin { 
+
+	background-image: url("../img/instructor_4.jpg");
+	height: 425px;
+	background-size: 100%;
+}
+
+
+.valet { 
+
+	background-image: url("../img/profesor_9.jpg");
+	height: 425px;
+	background-size: 100%;
+}
+
+
+.fondo-morado{
+
+	background-color:purple; 
+}
+
+
+.fondo-gris{
+
+	background-color:gray; 
+}
+
+
+.mapa{
+
+	background-image: url("../img/maps.gif");
+	align:right;
+}
+
+
+.alinear{
+
+	margin:20%;
+	margin-left: 30%;
+	margin-right:  
+}
+
+
+.pd-5{
+
+	padding: 5%;
+}
+
+
+.letras-grandes {
+
+	font-size: 60px;
+}
+
+
+.footer{
+
+	background-image: url("../img/footer-morado.jpg");
+    
+}
+
+
+.nos{
+
+	background-image: url("../img/dance_7.jpg");
+	background-repeat: no-repeat;
+	height: 480px;
+	width: 100%;
+}
+
+
+.transp{
+
+	background-color: rgba(0,0,0,0.5);
+	height: 140px;
+	width: 490px;
+	color: #FFFFFF;
+	text-align: center;
+	padding: .5%;
+	margin-top: 15%;
+	margin-left: 35%;
+	padding-top: 1%;
+}
+
+
+.fotos{
+
+	width: 300px;
+	height: 280px;
+}
+
+
+.una{
+	background-image: url("../img/dance_12.jpg");
+	background-repeat: no-repeat;
+	background-size: 80%;
+	height: 405px;
+}
+
+
+.dos{
+	background-image: url("../img/breakdance.jpg");
+	background-repeat: no-repeat;
+	background-size: 80%;
+	height: 405px;
+}
+
+
+.tres{
+	background-image: url("../img/lirical-jazz.jpg");
+	background-repeat: no-repeat;
+	background-size: 80%;
+	height: 405px;
+}
+
+
+.cuatro{
+	background-image: url("../img/arabe.jpg");
+	background-repeat: no-repeat;
+	background-size: 80%;
+	height: 405px;
+}
+
+.cinco{
+	background-image: url("../img/little.jpg");
+	background-repeat: no-repeat;
+	background-size: 80%;
+	height: 405px;
+}
+
+.seis{
+	background-image: url("../img/dance_13.jpg");
+	background-repeat: no-repeat;
+	background-size: 80%;
+	height: 405px;
+}
+
+
+.blog-foto1{
+	background-image: url("../img/blog1.jpg");
+	background-repeat: no-repeat;
+	background-size: 80%;
+	height: 405px;
+}
+
+
+.blog-foto2{
+	background-image: url("../img/profesor_5.jpg");
+	background-repeat: no-repeat;
+	background-size: 80%;
+	height: 405px;
+}
+
+
+.blog-foto3{
+	background-image: url("../img/instructor_1.jpg");
+	background-repeat: no-repeat;
+	background-size: 80%;
+	height: 405px;
+}
+
+
+.trasparencias-multiples{
+
+	background-color: rgba(0,0,0,0.5);
+	height: 130px;
+	width: 290px;
+	color: #FFFFFF;
+	text-align: center;
+	padding: .5%;
+	margin-top: 15%;
+	padding-top: 1%;
+
+}
+
+button{
+
+	padding:1.5%;
+	background-color: #0B0B3B;/*Color azul marino*/
+	height:50px;
+	width:300px;
+	color:white;
+}
+
+input{
+
+	display:block;
+	width: 500px
+}
+
+
+#msj{
+
+  border: 1px solid #999;
+  border-radius: 0;
+  height: 100px;
+  width: 500px
+ }
+
+
+form{
+	margin-left: 10%;
+	margin-top: 10%;
+}
+
+.zapatillas{
+ 	
+ 	background-position: right;
+ 	background-image: url(../img/shoes_1.jpg);
+ 	background-repeat: no-repeat;
+
+}
